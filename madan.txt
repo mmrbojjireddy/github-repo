@@ -1,2 +1,2 @@
-hello second line added
-hello one file deleted
+created the files through ssh
+this is line 1
